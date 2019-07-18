@@ -2,7 +2,7 @@
 
 This Repository contains samples and excerise data from the class.
 
-# Topic 7 NCSU GIS 595-601: Tools for Open Geospatial Science #
+# Topic 7 #
 
 Find what is the project license, whether the license is approved by OSI or FSF, which type of license it is (short, long, permissive, copyleft, ...), how to report bugs and request new features in the project, how to ask questions about using the project, how to contact developers, who provides commercial support, how to get latest source code, where to view the code online, where to get information about contributing to the project what would you have to do in oder to contribute some of your work to the project or as a project extension, whether the project is active, and anything else what you think is important.
 
