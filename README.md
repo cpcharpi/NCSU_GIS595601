@@ -23,7 +23,7 @@ Cesium does not have a official commercial support but in addition to the github
 
 Source code for Cesium can be obtained at GitHub in the CesiumJS repository at https://github.com/AnalyticalGraphicsInc/cesium in addition the project has an external website at https://cesiumjs.org/downloads/ where the code can be downloaded back through a link to GitHub.
 
-### What would you have to do in oder to contribute some of your work to the project or as a project extension? ###
+### What would you have to do in order to contribute some of your work to the project or as a project extension? ###
 
 The Cesium Developers have asked that if you would like to contribute to the project to 1st place your name in the Contributors.MD located on GitHub at https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTORS.md before adding anything. Next they have guidelines listed in a Contributing.MD file at https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTING.md which goes over the guidelines and process.
 
