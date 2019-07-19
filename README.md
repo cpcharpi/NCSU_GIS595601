@@ -4,6 +4,8 @@ This Repository contains samples and excerise data from the class.
 
 # Topic 7 #
 
+Publishing code as part of an open source project
+
 ## Assignment Questions: ##
 ### What is the project license? ###
 
