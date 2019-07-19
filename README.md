@@ -11,13 +11,13 @@ Find what is the project license, whether the license is approved by OSI or FSF,
 
 Cesium is licensed under Apache 2.0. CesiumJS is opensource and free for any use including commercial use. The Apache 2.0 license is OSI approved per http://www.apache.org/licenses/LICENSE-2.0.html. This is a permissive non-copyleft license which permits sub-licensing and reuse within propriatarty applications.
 
-### How to report bugs, request new features in the project & how to ask questions about using the project###
+### How to report bugs, request new features in the project & how to ask questions about using the project ###
 
 Bugs or issues for Cesium are monitored and prioritized by using the issues forum located at https://github.com/AnalyticalGraphicsInc/cesium/issues. The developers have asked that contributors 1st check here to see if an issue is already documented. If it is not, the request is for contributers to report the bugs here to be dealt with. In addition, this is the place to ask questions and request new features.
 
 ### Commercial Support ###
 
-Cesium does not have official commercial support but in addition to the github forums they also have a Google group at https://groups.google.com/forum/#!forum/cesium-dev that can be used to post questions.
+Cesium does not have a official commercial support but in addition to the github forums they also have a Google group at https://groups.google.com/forum/#!forum/cesium-dev that can be used to post questions. However, they do offer paid packages and cloud hosting of the solution. More information on this can be found at https://cesium.com/pricing/
 
 ### Where to obtain source code and view online? ###
 
